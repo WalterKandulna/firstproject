@@ -1,2 +1,2 @@
 # firstproject
-For Testing purpose
+For Testing purpose. To have basic idea about github
